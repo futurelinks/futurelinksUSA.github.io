@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://us.futurelinks.art/</loc>
+        <lastmod>2023-12-11T13:42:57+00:00</lastmod>
+        <priority>1.00</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://us.futurelinks.art/index.html</loc>
+        <lastmod>2023-12-11T13:42:57+00:00</lastmod>
+        <priority>0.80</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>https://us.futurelinks.art/index-team.html</loc>
+        <lastmod>2023-12-11T13:42:57+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+        <url>
+        <loc>https://us.futurelinks.art/index-samples.html</loc>
+        <lastmod>2023-12-11T13:42:57+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+</urlset>
